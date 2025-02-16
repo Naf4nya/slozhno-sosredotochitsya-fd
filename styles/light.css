@@ -13,10 +13,10 @@
   --main-color: #FF8DCB;
   --accent-color: #FFC2E6;
   --bg-color: #FFF1F7;
-  --text-collor: #353430 ;
-  --hover_text-collor: #32312D66;
-  --accent_text-collor: #353430;
-  --title_text-collor: #353430;
+  --text-color: #353430 ;
+  --hover_text-color: #32312D66;
+  --accent_text-color: #353430;
+  --title_text-color: #353430;
 }
 
 .theme-light .page {
@@ -30,7 +30,7 @@
   background-attachment: fixed;
 }
 
-.theme-light .header__logo  {
+.theme-light .header__logo {
   color: transparent;
 }
 
