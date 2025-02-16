@@ -145,17 +145,10 @@
   }
 }
 
-@media (1024px <= width) {
-  .title {
-  
-  }
-}
-
 .title-article {
   width: 100%;
   margin-block-start: 42px;
 }
-
 
 .title-decor {
   width: 100%;
@@ -386,7 +379,6 @@
     grid-template-rows: 260px 315px 433px;
   }
 }
-
 
 .footer__decorated-zone {
   display: grid;
