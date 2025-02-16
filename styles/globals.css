@@ -6,10 +6,17 @@
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   min-inline-size: 375px;
   max-inline-size: 1440px;
   margin: 0 auto;
+  font-family: 'IBM Plex mono', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 h1,
@@ -20,6 +27,11 @@ h5,
 h6,
 p {
   margin: 0;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
 }
 
 ul {

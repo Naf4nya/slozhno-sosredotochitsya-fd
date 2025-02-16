@@ -9,8 +9,22 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+  --main-font: IBM Plex Mono;
+  --main-color: #FF0070;
+  --accent-color: #DB00FF;
+  --bg-color: #000028;
+  --text-collor: #F1B2CE;
+  --accent_text-collor: #FF0070;
+  --hover_text-collor: #FF007066;
+  --title_text-collor: #000028;
 }
 
 .theme-dark .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
 }
+
+
+
+
+
+
