@@ -231,7 +231,7 @@
 
 .article {
   display: grid;
-  grid-template-rows: min-content 1fr;
+  grid-template-rows: auto 1fr;
   gap: 10px;
 }
 
