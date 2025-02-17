@@ -287,8 +287,14 @@ article {
 
 .content__card-section {
   display: grid;
-  gap: 20px;
+  gap: 10px;
 } 
+
+@media (768px <= width) {
+  .content__card-section {
+    gap: 20px;
+  }
+}
 
 .card {
   display: grid;
