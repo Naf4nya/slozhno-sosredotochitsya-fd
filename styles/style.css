@@ -128,10 +128,11 @@
   border: 1px solid var(--hover_text-color);
 }
 
-.header__theme-menu-button.link:focus-visible {
+.header__theme-menu-button:focus-visible {
   outline: none;
   border-bottom: 1px solid var(--text-color);
 }
+
 
 .title {
   color: var(--accent-color);
