@@ -45,14 +45,14 @@
 }
 
 @media (768px <= width < 1024px) {
-  .header__decorated-zone {
+  .decorated-zone {
     padding: 20px;
     min-height: 1024px;
   }
 }
 
 @media (1024px <= width) {
-  .header__decorated-zone {
+  .decorated-zone {
     padding: 20px;
     min-height: 768px;
   }
